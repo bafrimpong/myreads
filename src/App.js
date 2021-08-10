@@ -34,12 +34,13 @@ class App extends Component {
    */
   moveBookToShelf = (book, shelfCategory) => {
     BooksAPI.update(book, shelfCategory).then((dataReturned) => {
-      book.shef = shelfCategory;
+      book.shelf = shelfCategory;
 
       this.setState((currentState)=> ({
         books: this.filterBookOnShelfMove(currentState.books, book)
-      }))
-    })
+      }));
+    });
+    // this.forceUpdate();
   }
 
   /**

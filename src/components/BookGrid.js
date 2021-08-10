@@ -2,7 +2,6 @@ import React from 'react';
 import ShelfOptions from './ShelfOptions';
 
 const BookGrid = (props) => {
-
     return (
         <ol className="books-grid">
             {
