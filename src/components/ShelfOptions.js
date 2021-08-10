@@ -11,7 +11,7 @@ const ShelfOptions = (props) => {
         props.moveBookToShelf(props.book, e.target.value.trim());
     }
 
-    let shelfCategory = 'none'; // as default
+    let shelfCategory = 'none';
 
     /**
      * Compares a `book` with `all books` in the app based on the `ids` and then
@@ -21,12 +21,12 @@ const ShelfOptions = (props) => {
      */
     const compareBooksAndSetShelfCategory = () => {
         for (let i = 0; i < props.books.length; i++) {
+
             const element = props.books[i];
+
             if(element.id === props.book.id){
                 shelfCategory = element.shelf
-            } /*else {
-                shelfCategory = 'none';
-            }*/
+            }
         }
 
         return shelfCategory;
