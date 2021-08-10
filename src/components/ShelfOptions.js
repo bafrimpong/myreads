@@ -11,8 +11,8 @@ class ShelfOptions extends React.Component {
         this.props.moveBookToShelf(this.props.book, e.target.value.trim());
     }
 
+    
     shelfCategory = 'none';
-
     /**
      * Compares a `book` with `all books` in the app based on the `ids` and then
      * assigns the `shelf category` to a variable which is used as the `defaultValue` value
@@ -21,9 +21,9 @@ class ShelfOptions extends React.Component {
      */
     compareBooksAndSetShelfCategory = () => {
         for (let i = 0; i < this.props.books.length; i++) {
-            const element = this.props.books[i];
-            if (element.id === this.props.book.id) {
-                this.shelfCategory = element.shelf
+            const e = this.props.books[i];
+            if(e.id === this.props.book.id && e.shelf){
+                this.shelfCategory = e.shelf
             }
         }
         return this.shelfCategory;
