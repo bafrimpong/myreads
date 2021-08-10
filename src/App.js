@@ -55,11 +55,14 @@ class App extends Component {
   }
 
   render() {
-    
+      
     return (
       <div className="app">
         <Route path='/add-book' render={() => (
-          <SearchBooks moveBookToShelf={this.moveBookToShelf} />
+          <SearchBooks 
+            moveBookToShelf={this.moveBookToShelf}
+            books={this.state.books}
+          />
         )}
         />
         <Route exact path='/' render={() => (
@@ -69,7 +72,11 @@ class App extends Component {
             </div>
             <div className="list-books-content">
               <div>
-                <ListOfBooks books={this.state.books} moveBookToShelf={this.moveBookToShelf} />
+                <ListOfBooks 
+                  books={this.state.books} 
+                  moveBookToShelf={this.moveBookToShelf}
+                  renderList={'main'}
+                />
               </div>
             </div>
             <div className="open-search">
