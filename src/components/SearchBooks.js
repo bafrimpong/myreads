@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import * as BooksAPI from '../utils/api/BooksAPI';
-import ListOfBooks from './ListOfBooks';
+import BookFilter from './BookFilter';
+
 class SearchBooks extends Component {
 
     constructor(props) {
@@ -19,27 +20,35 @@ class SearchBooks extends Component {
      * @param {object} e 
      */
     searchForBook = (e) => {
-
         const word = e.target.value;
 
         if (word !== '' || word !== null) {
             BooksAPI.search(word.trim()).then(booksFound => {
                 if ((typeof booksFound !== 'object') || (typeof booksFound !== 'undefined')) {
                     if (booksFound) {
-                        this.setState((old) => ({
-                            searchBookResults: booksFound
-                        }));
+                        this.changeState(booksFound)
                     } else {
-                        this.setState({
-                            searchBookResults: []
-                        })
+                        this.changeState([]);
                     };
                 };
             });
-        };
+        } else {
+            this.changeState([]);
+        }
+    }
+
+    /**
+     * A method to set a state value
+     * @param {object} book 
+     */
+    changeState(book) {
+        this.setState({
+            searchBookResults: book
+        })
     }
 
     render() {
+        console.log('Results', this.state.searchBookResults)
         return (
             <div className="search-books">
                 <div className="search-books-bar">
@@ -55,10 +64,20 @@ class SearchBooks extends Component {
                         />
                     </div>
                 </div>
-                <ListOfBooks
-                    books={this.state.searchBookResults}
-                    moveBookToShelf={this.props.moveBookToShelf}
-                    renderList={'search'} />
+                <div className="search-books-results">
+                        <div>
+                            <ol className="books-grid">
+                                {
+                                this.state.searchBookResults.length > 0 && this.state.searchBookResults.map(book => (
+                                    <BookFilter
+                                        book={book}
+                                        books={this.props.books}
+                                        moveBookToShelf={this.props.moveBookToShelf}
+                                    />
+                                ))}
+                            </ol>
+                        </div>
+                </div>
             </div>
         );
     }

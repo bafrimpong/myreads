@@ -59,9 +59,10 @@ class App extends Component {
       
     return (
       <div className="app">
-        <Route path='/add-book' render={() => (
+        <Route path='/search' render={() => (
           <SearchBooks 
             moveBookToShelf={this.moveBookToShelf}
+            renderList='search'
             books={this.state.books}
           />
         )}
@@ -81,7 +82,7 @@ class App extends Component {
               </div>
             </div>
             <div className="open-search">
-              <Link to='/add-book'>
+              <Link to='/search'>
                 <button >Add a Book</button>
               </Link>
             </div>
