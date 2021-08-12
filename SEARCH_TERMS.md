@@ -76,25 +76,25 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>reactnd-project-myreads-starter/README.md at master · udacity/reactnd-project-myreads-starter</title>
+  <title>reactnd-project-myreads-starter/SEARCH_TERMS.md at master · udacity/reactnd-project-myreads-starter</title>
     <meta name="description" content="Starter Code for the React MyReads Project. Contribute to udacity/reactnd-project-myreads-starter development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
   <meta name="apple-itunes-app" content="app-id=1477376905" />
-    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/36c4f017108a4634406e733b7b4b5b7b828a75fa9627327e1f39ed1a785100b4/udacity/reactnd-project-myreads-starter" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="reactnd-project-myreads-starter/README.md at master · udacity/reactnd-project-myreads-starter" /><meta name="twitter:description" content="Starter Code for the React MyReads Project. Contribute to udacity/reactnd-project-myreads-starter development by creating an account on GitHub." />
-    <meta property="og:image" content="https://opengraph.githubassets.com/36c4f017108a4634406e733b7b4b5b7b828a75fa9627327e1f39ed1a785100b4/udacity/reactnd-project-myreads-starter" /><meta property="og:image:alt" content="Starter Code for the React MyReads Project. Contribute to udacity/reactnd-project-myreads-starter development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="reactnd-project-myreads-starter/README.md at master · udacity/reactnd-project-myreads-starter" /><meta property="og:url" content="https://github.com/udacity/reactnd-project-myreads-starter" /><meta property="og:description" content="Starter Code for the React MyReads Project. Contribute to udacity/reactnd-project-myreads-starter development by creating an account on GitHub." />
+    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/36c4f017108a4634406e733b7b4b5b7b828a75fa9627327e1f39ed1a785100b4/udacity/reactnd-project-myreads-starter" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="reactnd-project-myreads-starter/SEARCH_TERMS.md at master · udacity/reactnd-project-myreads-starter" /><meta name="twitter:description" content="Starter Code for the React MyReads Project. Contribute to udacity/reactnd-project-myreads-starter development by creating an account on GitHub." />
+    <meta property="og:image" content="https://opengraph.githubassets.com/36c4f017108a4634406e733b7b4b5b7b828a75fa9627327e1f39ed1a785100b4/udacity/reactnd-project-myreads-starter" /><meta property="og:image:alt" content="Starter Code for the React MyReads Project. Contribute to udacity/reactnd-project-myreads-starter development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="reactnd-project-myreads-starter/SEARCH_TERMS.md at master · udacity/reactnd-project-myreads-starter" /><meta property="og:url" content="https://github.com/udacity/reactnd-project-myreads-starter" /><meta property="og:description" content="Starter Code for the React MyReads Project. Contribute to udacity/reactnd-project-myreads-starter development by creating an account on GitHub." />
 
 
 
     
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/23263393/ws?session=eyJ2IjoiVjMiLCJ1IjoyMzI2MzM5MywicyI6NzI2OTMyMDc5LCJjIjozNzAwMjYzMjAwLCJ0IjoxNjI4NjMwNzMwfQ==--2fe6a45455922033197e9e79ecc086a4e0d2fc31963211ca6688a0ca803cdfd8" data-refresh-url="/_alive" data-session-id="6524a48c366de63e10fedeaca52987908e5d055cfefb33f796a8efd86ee1c699">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/23263393/ws?session=eyJ2IjoiVjMiLCJ1IjoyMzI2MzM5MywicyI6NzI2OTMyMDc5LCJjIjozODA4MDUzMzk1LCJ0IjoxNjI4NjMwNzU1fQ==--adc63ccedfe39305581725bdd1a37959df89952446ad2830a67aa3f5eb82ada8" data-refresh-url="/_alive" data-session-id="6524a48c366de63e10fedeaca52987908e5d055cfefb33f796a8efd86ee1c699">
     <link rel="shared-web-socket-src" href="/socket-worker-3f088aa2.js">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="C8CD:990A:1A03E3:1B44E9:6112EEBA" data-pjax-transient="true" /><meta name="html-safe-nonce" content="d2721aa8b2756127abcf9909edfe2461244c4ffd736a271da574c64c11aaaf24" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS91ZGFjaXR5L3JlYWN0bmQtcHJvamVjdC1teXJlYWRzLXN0YXJ0ZXIiLCJyZXF1ZXN0X2lkIjoiQzhDRDo5OTBBOjFBMDNFMzoxQjQ0RTk6NjExMkVFQkEiLCJ2aXNpdG9yX2lkIjoiMjUyMzM4NjUyMzE3MDAwMTk4NSIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true" /><meta name="visitor-hmac" content="5a86f051d760cc988306507e8162f88258489aa603238070b006fb9d5624c21b" data-pjax-transient="true" />
+  <meta name="request-id" content="C8CD:990A:1A138E:1B556C:6112EECA" data-pjax-transient="true" /><meta name="html-safe-nonce" content="d2721aa8b2756127abcf9909edfe2461244c4ffd736a271da574c64c11aaaf24" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS91ZGFjaXR5L3JlYWN0bmQtcHJvamVjdC1teXJlYWRzLXN0YXJ0ZXIiLCJyZXF1ZXN0X2lkIjoiQzhDRDo5OTBBOjFBMTM4RToxQjU1NkM6NjExMkVFQ0EiLCJ2aXNpdG9yX2lkIjoiMjUyMzM4NjUyMzE3MDAwMTk4NSIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true" /><meta name="visitor-hmac" content="511f5da5ea750862b73637d90b8ec73565dc8b2ba8d573fa2587d9413ae14918" data-pjax-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:90664712" data-pjax-transient>
 
@@ -133,7 +133,7 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="MmUwYmE2MzdlN2RkN2JkNmEwMTBmYzQzNDQ5ZWFkMDM3MTBmYmVjNmNiMGJhZWIxMmRiOTI5MzYzYTEzZWNiYnx7InJlbW90ZV9hZGRyZXNzIjoiNDEuNjYuMjAzLjIzMiIsInJlcXVlc3RfaWQiOiJDOENEOjk5MEE6MUEwM0UzOjFCNDRFOTo2MTEyRUVCQSIsInRpbWVzdGFtcCI6MTYyODYzMDczMCwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+      <meta name="js-proxy-site-detection-payload" content="OTAxMzk1ZTQ2ZTlkNzQxYjQwMDA3YTBkODRkZjUzNDkzNzA5ZDNhNzM2YTMyNTczNzgzMzk4NzcwNGRjZWIyY3x7InJlbW90ZV9hZGRyZXNzIjoiNDEuNjYuMjAzLjIzMiIsInJlcXVlc3RfaWQiOiJDOENEOjk5MEE6MUExMzhFOjFCNTU2Qzo2MTEyRUVDQSIsInRpbWVzdGFtcCI6MTYyODYzMDc1NSwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
     <meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS,GITHUB_TOKEN_PERMISSION">
 
@@ -147,7 +147,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/udacity/reactnd-project-myreads-starter/blob/master/README.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/udacity/reactnd-project-myreads-starter/blob/master/SEARCH_TERMS.md" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -189,7 +189,7 @@
   href="https://github.com/"
   data-hotkey="g d"
   aria-label="Homepage "
-  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/reactnd-project-myreads-starter/blob/master/README.md&quot;,&quot;user_id&quot;:23263393}}" data-hydro-click-hmac="4b40b78c965d7ae865f6404124673f400263795fd01e0667049ef7e32f743747"
+  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/reactnd-project-myreads-starter/blob/master/SEARCH_TERMS.md&quot;,&quot;user_id&quot;:23263393}}" data-hydro-click-hmac="a518cbd377cf63cb7903388ffdc4d14536fd44ff007394b5c2950e9a6629e58f"
 >
   <svg height="32" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-middle">
     <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
@@ -234,7 +234,7 @@
             spellcheck="false"
             autocomplete="off"
           >
-          <input type="hidden" value="ASoqe+64KkqQdc/BDIKhGsH9x1TcQ8XLKJRhdyqrfer8w/boU9fGDY9cjHppbh7DJjlSxmEBNLfJPs3exJncbQ==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+          <input type="hidden" value="J3exyw1AOCNjaLCS4u4LVsTvtUns1etSZaKrDh2hsM7anm1YsC/UZHxB8ymHArSPIysg21GXGi6ECAen85MRSQ==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
               <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -414,7 +414,7 @@
     <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:workspaces context:user" data-selected-links="/codespaces /codespaces" href="/codespaces">
       Codespaces
 </a>
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;bafrimpong&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/reactnd-project-myreads-starter/blob/master/README.md&quot;,&quot;user_id&quot;:23263393}}" data-hydro-click-hmac="086328c3b3efeef0cde1d62645b4ab2a3692ce621e4141ea7a7ce1b1eb2ccde2" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;bafrimpong&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/reactnd-project-myreads-starter/blob/master/SEARCH_TERMS.md&quot;,&quot;user_id&quot;:23263393}}" data-hydro-click-hmac="ab5c89528960a7d04121155b81b6115a8fc112be7266cbf1f06ac6e41ebcd746" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" href="/settings/profile">
       Settings
@@ -423,12 +423,12 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/23263393?s=40&amp;v=4" width="20" height="20" alt="@bafrimpong" />
       bafrimpong
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="n40PHFv8UKcTUqwjxjR0Q55LvO8d68XThCAbFzVAQbpROqhnAxBfOVUI8Q7ChrWJ96HqpfPFP0iz4r3Bsr44aQ==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="fwqzNLqX6F56kqTA7j3x2kh3w5GGNGJBWwpHdZvyrAaxvRRP4nvnwDzI+e3qjzAQIZ2V22gamNpsyOGjHAzV1Q==" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
         style="padding-left: 2px;"
-        data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/reactnd-project-myreads-starter/blob/master/README.md&quot;,&quot;user_id&quot;:23263393}}" data-hydro-click-hmac="aae8de6489fb75db35b74c0632cf01fc4763f0849d83656a6478e8b750d3bd27"
+        data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/reactnd-project-myreads-starter/blob/master/SEARCH_TERMS.md&quot;,&quot;user_id&quot;:23263393}}" data-hydro-click-hmac="b0d36040542f7d6a867545296106a76a6dafc0737cf87db46d37a1628dbb17eb"
       >
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sign-out v-align-middle">
     <path fill-rule="evenodd" d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 010 1.5h-2.5a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 010 1.5h-2.5A1.75 1.75 0 012 13.25V2.75zm10.44 4.5H6.75a.75.75 0 000 1.5h5.69l-1.97 1.97a.75.75 0 101.06 1.06l3.25-3.25a.75.75 0 000-1.06l-3.25-3.25a.75.75 0 10-1.06 1.06l1.97 1.97z"></path>
@@ -445,7 +445,7 @@
   href="https://github.com/"
   data-hotkey="g d"
   aria-label="Homepage "
-  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/reactnd-project-myreads-starter/blob/master/README.md&quot;,&quot;user_id&quot;:23263393}}" data-hydro-click-hmac="4b40b78c965d7ae865f6404124673f400263795fd01e0667049ef7e32f743747"
+  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/reactnd-project-myreads-starter/blob/master/SEARCH_TERMS.md&quot;,&quot;user_id&quot;:23263393}}" data-hydro-click-hmac="a518cbd377cf63cb7903388ffdc4d14536fd44ff007394b5c2950e9a6629e58f"
 >
   <svg height="32" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-middle">
     <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
@@ -461,7 +461,7 @@
       <notification-indicator
         class="js-socket-channel"
         data-test-selector="notifications-indicator"
-        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MjMyNjMzOTMiLCJ0IjoxNjI4NjMwNzMwfQ==--df12ce65b9eee08a89335267e11343ae6f909c4729637362e8d2157562e33502">
+        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MjMyNjMzOTMiLCJ0IjoxNjI4NjMwNzU1fQ==--35ba781d027c79eb9bac18f766d871e637c98ab14138df49a0ba2e1fd9485b13">
         <a href="/notifications"
           class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
           
@@ -484,7 +484,7 @@
   <summary
     class="Header-link"
     aria-label="Create new…"
-    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/reactnd-project-myreads-starter/blob/master/README.md&quot;,&quot;user_id&quot;:23263393}}" data-hydro-click-hmac="c12817b368defe2aef1630b18c204f6ad10adb148024f92e14b64b4e28ff8f3d"
+    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/reactnd-project-myreads-starter/blob/master/SEARCH_TERMS.md&quot;,&quot;user_id&quot;:23263393}}" data-hydro-click-hmac="f01852242ce4971c1ca5a005ae5adda7788939a5a4e6bb60defdd9096599248a"
   >
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-plus">
     <path fill-rule="evenodd" d="M7.75 2a.75.75 0 01.75.75V7h4.25a.75.75 0 110 1.5H8.5v4.25a.75.75 0 11-1.5 0V8.5H2.75a.75.75 0 010-1.5H7V2.75A.75.75 0 017.75 2z"></path>
@@ -522,7 +522,7 @@
   <summary
     class="Header-link"
     aria-label="View profile and more"
-    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/reactnd-project-myreads-starter/blob/master/README.md&quot;,&quot;user_id&quot;:23263393}}" data-hydro-click-hmac="e87c83d323a3cb881077c1e1856b8b778672e30bd1b991a4e02c0f96af9448ec"
+    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/reactnd-project-myreads-starter/blob/master/SEARCH_TERMS.md&quot;,&quot;user_id&quot;:23263393}}" data-hydro-click-hmac="68caa45bdbb9ea7ed8e6c503b57bb7121693f0ea6ad7edd5a17d7a892bfb571c"
   >
     <img src="https://avatars.githubusercontent.com/u/23263393?s=60&amp;v=4" alt="@bafrimpong" size="20" height="20" width="20" data-view-component="true" class="avatar-user avatar avatar-small"></img>
       <span class="feature-preview-indicator js-feature-preview-indicator" style="top: 1px;" hidden></span>
@@ -638,7 +638,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-      <summary class="btn btn-sm rounded-right-0" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:90664712,&quot;originating_url&quot;:&quot;https://github.com/udacity/reactnd-project-myreads-starter/blob/master/README.md&quot;,&quot;user_id&quot;:23263393}}" data-hydro-click-hmac="8f3731e06ca9208e9da3b10312d302740d6efde9adb17cf07fda86c7ebeb5063" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notifications settings">
+      <summary class="btn btn-sm rounded-right-0" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:90664712,&quot;originating_url&quot;:&quot;https://github.com/udacity/reactnd-project-myreads-starter/blob/master/SEARCH_TERMS.md&quot;,&quot;user_id&quot;:23263393}}" data-hydro-click-hmac="f69d3f83ecfa2b8cc8b767ab5f6933cb03215d7bcc6e03c2dddd3824b48dc139" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notifications settings">
           <span data-menu-button>
             <span
               hidden
@@ -690,7 +690,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="8RvCALtItt70y1OMja6bARE4hcLcijmiGBg2SRcmISzeQWUZm3PTHeEejBDpja4bnedwbrvr3oKCnfTY+mSf6A==" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="5F3QQiMi3kXAvGqEsRm+KtiAf2EtkMK8FN2Mtk9WF0XLB3dbAxm7htVptRjVOoswVF+KzUrxJZyOWE4nohSpgQ==" />
 
                 <input type="hidden" name="repository_id" value="90664712">
 
@@ -803,7 +803,7 @@
 
         <details-dialog class="notifications-component-dialog " data-target="notifications-list-subscription-form.customDialog" hidden>
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="42nYPM7kLh7Z+z98KdYuaZhTm6XTcRzXFmZRD7vFcMnMM38l7t9L3cwu4OBN9RtzFIxuCbQQ+/eM45OeVofODQ==" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="9rhG+JvWxBQoT9KKZ4WRdEde7IpmGS02M4qMT4SpVDXZ4uHhu+2h1z2aDRYDpqRuy4EZJgF4yhapD07eaevq8Q==" />
 
               <input type="hidden" name="repository_id" value="90664712">
 
@@ -962,9 +962,9 @@
 
   <li>
         <div class="d-block js-toggler-container js-social-container starring-container ">
-    <form class="starred js-social-form" action="/udacity/reactnd-project-myreads-starter/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="9LC0OEB8qXK1o+YiBUfH418iIAFAtdDWD0dSQP10UVYu8/jnxFkykQFpujJo8whewwEsjlMkks+J9EnisPI5QQ==" />
+    <form class="starred js-social-form" action="/udacity/reactnd-project-myreads-starter/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="BpqpKjOFHCNNvjamhkKUfQST6CYtqakjD1y02/tGal3c2eX1t6CHwPl0arbr9lvAmLDkqT446zqJ7695tsACSg==" />
       <input type="hidden" name="context" value="repository">
-      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar udacity/reactnd-project-myreads-starter" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:90664712,&quot;originating_url&quot;:&quot;https://github.com/udacity/reactnd-project-myreads-starter/blob/master/README.md&quot;,&quot;user_id&quot;:23263393}}" data-hydro-click-hmac="a553cf42a8e5e4b871cd7724b841272db1fec092fe208656e8d87eb633ea0f17" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill mr-1">
+      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar udacity/reactnd-project-myreads-starter" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:90664712,&quot;originating_url&quot;:&quot;https://github.com/udacity/reactnd-project-myreads-starter/blob/master/SEARCH_TERMS.md&quot;,&quot;user_id&quot;:23263393}}" data-hydro-click-hmac="d0759cd09b3599f9efd61692f4fa0fa062be78020be0b37a647f36932ef520f1" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill mr-1">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg>
         <span data-view-component="true">
@@ -974,9 +974,9 @@
            214
         </a>
 </form>
-    <form class="unstarred js-social-form" action="/udacity/reactnd-project-myreads-starter/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="QEXYYjPyzakBawqXDAbxYZzST8U1BnLQH1UEMM07YiAQ6swbx5Cuq3We/Tueq3Pu7ii0bSLy1sGKRnEDw9Nqag==" />
+    <form class="unstarred js-social-form" action="/udacity/reactnd-project-myreads-starter/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="vMiggl3T0B8gQkzHbJKcj/ZwQFHJy1N4eCcThDZfj/bsZ7T7qbGzHVS3u2v+Px4AhIq7+d4/92ntNGa3OLeHvA==" />
       <input type="hidden" name="context" value="repository">
-      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Star udacity/reactnd-project-myreads-starter" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:90664712,&quot;originating_url&quot;:&quot;https://github.com/udacity/reactnd-project-myreads-starter/blob/master/README.md&quot;,&quot;user_id&quot;:23263393}}" data-hydro-click-hmac="e3a4abada7ebc6c7ef36d64f4bf5c92318e773d3c273b0fcb1e65bf63a18bc12" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star mr-1">
+      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Star udacity/reactnd-project-myreads-starter" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:90664712,&quot;originating_url&quot;:&quot;https://github.com/udacity/reactnd-project-myreads-starter/blob/master/SEARCH_TERMS.md&quot;,&quot;user_id&quot;:23263393}}" data-hydro-click-hmac="d81dd3f0b2a0d9b03a4503b5f560b9f972a16ccc459a8e9132c07665fd2c6dc4" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star mr-1">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg>
         <span data-view-component="true">
@@ -990,8 +990,8 @@
   </li>
 
   <li>
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/udacity/reactnd-project-myreads-starter/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="OYo83kOVg6jmIOTIFQLkSTzezfYQM3vAOcvzokOgi+rxSk6hPnwJVMhskhB/JEO2WDTfuoEG9PI+HIk7+tZHGQ==" />
-              <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:90664712,&quot;originating_url&quot;:&quot;https://github.com/udacity/reactnd-project-myreads-starter/blob/master/README.md&quot;,&quot;user_id&quot;:23263393}}" data-hydro-click-hmac="3f6ee99c9bc47afc869796ee1b8a0025f528077e462f02d8b02effe7cd1cd370" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of udacity/reactnd-project-myreads-starter to your account" aria-label="Fork your own copy of udacity/reactnd-project-myreads-starter to your account">                <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked">
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/udacity/reactnd-project-myreads-starter/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="IoDdNAHy7cxybAkVeXAWDtmSqzW5W8D4TXLWBU6nBfXqQK9LfBtnMFwgf80TVrHxvXi5eShuT8pKpayc99HJBg==" />
+              <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:90664712,&quot;originating_url&quot;:&quot;https://github.com/udacity/reactnd-project-myreads-starter/blob/master/SEARCH_TERMS.md&quot;,&quot;user_id&quot;:23263393}}" data-hydro-click-hmac="f03fe233499fcdfb3c493e3fa757ad9975e1fe686d2f2a980b0519672d1c75cb" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of udacity/reactnd-project-myreads-starter to your account" aria-label="Fork your own copy of udacity/reactnd-project-myreads-starter to your account">                <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>
                 Fork
@@ -1152,9 +1152,9 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/udacity/reactnd-project-myreads-starter/blob/640caecf381257304e770ce9e5f97be9e51961ec/README.md">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/udacity/reactnd-project-myreads-starter/blob/640caecf381257304e770ce9e5f97be9e51961ec/SEARCH_TERMS.md">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v22:3778ce33959f8d875c4245f81f1682a57ef4518a95a02dac44a54add5cd7a055 -->
+    <!-- blob contrib key: blob_contributors:v22:9a79627dc29cc0827903021990120f950595a8e9b602518ee1c3f488cbd02c9a -->
 
     <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
       
@@ -1239,7 +1239,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/udacity/reactnd-project-myreads-starter/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/udacity/reactnd-project-myreads-starter/blob/{{ urlEncodedRefName }}/SEARCH_TERMS.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -1279,7 +1279,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/udacity/reactnd-project-myreads-starter/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/udacity/reactnd-project-myreads-starter/blob/{{ urlEncodedRefName }}/SEARCH_TERMS.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -1310,7 +1310,7 @@
 </div>
 
       <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/udacity/reactnd-project-myreads-starter"><span>reactnd-project-myreads-starter</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/udacity/reactnd-project-myreads-starter"><span>reactnd-project-myreads-starter</span></a></span></span><span class="separator">/</span><strong class="final-path">SEARCH_TERMS.md</strong>
       </h2>
       <a href="/udacity/reactnd-project-myreads-starter/find/master"
             class="js-pjax-capture-input btn mr-2 d-none d-md-block"
@@ -1331,7 +1331,7 @@
 </summary>
   <div data-view-component="true">          <ul class="dropdown-menu dropdown-menu-sw">
             <li class="d-block d-md-none">
-              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:90664712,&quot;originating_url&quot;:&quot;https://github.com/udacity/reactnd-project-myreads-starter/blob/master/README.md&quot;,&quot;user_id&quot;:23263393}}" data-hydro-click-hmac="6949d3731e3b4a2517d9e33ba09787fd1849755247ee8612c30b9e889e6cb6a8" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/udacity/reactnd-project-myreads-starter/find/master">
+              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:90664712,&quot;originating_url&quot;:&quot;https://github.com/udacity/reactnd-project-myreads-starter/blob/master/SEARCH_TERMS.md&quot;,&quot;user_id&quot;:23263393}}" data-hydro-click-hmac="232d77b30b8f1630073581285b9797563773def2bb8b6596f71dbe2ea179350d" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/udacity/reactnd-project-myreads-starter/find/master">
                 <span class="flex-auto">Go to file</span>
                 <span class="text-small color-text-secondary" aria-hidden="true">T</span>
 </a>            </li>
@@ -1345,12 +1345,12 @@
             </li>
             <li class="dropdown-divider" role="none"></li>
             <li>
-              <clipboard-copy value="README.md" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details">
+              <clipboard-copy value="SEARCH_TERMS.md" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details">
                 Copy path
               </clipboard-copy>
             </li>
             <li>
-              <clipboard-copy value="https://github.com/udacity/reactnd-project-myreads-starter/blob/640caecf381257304e770ce9e5f97be9e51961ec/README.md" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details" >
+              <clipboard-copy value="https://github.com/udacity/reactnd-project-myreads-starter/blob/640caecf381257304e770ce9e5f97be9e51961ec/SEARCH_TERMS.md" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details" >
                 <span class="d-flex flex-items-baseline">
                   <span class="flex-auto">Copy permalink</span>
                 </span>
@@ -1364,17 +1364,80 @@
 
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-      <include-fragment src="/udacity/reactnd-project-myreads-starter/contributors/master/README.md" class="commit-loader">
-        <div class="Box-header Box-header--blue d-flex flex-items-center">
-          <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
-          <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
-        </div>
+      
+  <div class="Box-header hx_commit-tease Details js-details-container">
+      <div class="d-flex flex-items-center">
+        <span class="flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1">
+          <a rel="contributor" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/users/richardkalehoff/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/richardkalehoff"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/380035?s=48&amp;v=4" width="24" height="24" alt="@richardkalehoff" /></a>
+        </span>
+        <div class="flex-1 d-flex flex-items-center ml-3 min-width-0">
+          <div class="css-truncate css-truncate-overflow">
+            <a class="text-bold Link--primary" rel="contributor" data-hovercard-type="user" data-hovercard-url="/users/richardkalehoff/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/richardkalehoff">richardkalehoff</a>
 
-        <div class="Box-body d-flex flex-items-center" >
-          <div class="Skeleton Skeleton--text col-1">&nbsp;</div>
-          <span class="color-text-danger h6 loader-error">Cannot retrieve contributors at this time</span>
+              <span class="markdown-title">
+                <a data-pjax="true" title="Initial commit" class="Link--secondary" href="/udacity/reactnd-project-myreads-starter/commit/f55abf3992c39430e29ef8d9fb49da09ec265201">Initial commit</a>
+              </span>
+          </div>
+
+
+          <span class="ml-2">
+            <include-fragment accept="text/fragment+html" src="/udacity/reactnd-project-myreads-starter/commit/f55abf3992c39430e29ef8d9fb49da09ec265201/rollup?direction=e" class="d-inline"></include-fragment>
+          </span>
         </div>
-</include-fragment>    </div>
+        <div class="ml-3 d-flex flex-shrink-0 flex-items-center flex-justify-end color-text-secondary no-wrap">
+          <span class="d-none d-md-inline">
+            <span>Latest commit</span>
+            <a class="text-small text-mono Link--secondary" href="/udacity/reactnd-project-myreads-starter/commit/f55abf3992c39430e29ef8d9fb49da09ec265201" data-pjax>f55abf3</a>
+            <span itemprop="dateModified"><relative-time datetime="2017-08-30T20:34:10Z" class="no-wrap">Aug 31, 2017</relative-time></span>
+          </span>
+
+          <a data-pjax href="/udacity/reactnd-project-myreads-starter/commits/master/SEARCH_TERMS.md" class="ml-3 no-wrap Link--primary no-underline">
+            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-history text-gray">
+    <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path>
+</svg>
+            <span class="d-none d-sm-inline">
+              <strong>History</strong>
+            </span>
+          </a>
+        </div>
+      </div>
+
+  </div>
+
+  <div class="Box-body d-flex flex-items-center flex-auto border-bottom-0 flex-wrap" >
+    <details class="details-reset details-overlay details-overlay-dark lh-default color-text-primary float-left mr-3" id="blob_contributors_box">
+      <summary class="Link--primary">
+        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-people text-gray">
+    <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"></path>
+</svg>
+        <strong>1</strong>
+        
+        contributor
+      </summary>
+      <details-dialog
+        class="Box Box--overlay d-flex flex-column anim-fade-in fast"
+        aria-label="Users who have contributed to this file"
+        src="/udacity/reactnd-project-myreads-starter/contributors-list/master/SEARCH_TERMS.md" preload>
+        <div class="Box-header">
+          <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
+            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
+</svg>
+          </button>
+          <h3 class="Box-title">
+            Users who have contributed to this file
+          </h3>
+        </div>
+        <include-fragment>
+          <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="my-3 mx-auto d-block anim-rotate">
+  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
+  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
+</svg>
+        </include-fragment>
+      </details-dialog>
+    </details>
+  </div>
+    </div>
 
 
 
@@ -1387,81 +1450,33 @@
 
 
 
-    <readme-toc>
-
+  
     <div data-target="readme-toc.content" class="Box mt-3 position-relative
     ">
       
   <div
-    class="Box-header blob-header js-sticky js-position-sticky top-0 p-2 d-flex flex-shrink-0 flex-md-row flex-items-center"
-    style="position: sticky; z-index: 1;"
+    class="Box-header py-2 pr-2 d-flex flex-shrink-0 flex-md-row flex-items-center"
+    
   >
-
-      <details
-  data-target="readme-toc.trigger"
-  data-menu-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;trigger&quot;,&quot;repository_id&quot;:90664712,&quot;originating_url&quot;:&quot;https://github.com/udacity/reactnd-project-myreads-starter/blob/master/README.md&quot;,&quot;user_id&quot;:23263393}}"
-  data-menu-hydro-click-hmac="ba52de8369d20e7a51be705d1185c0df577febb4a5443f0fd7084b47946a3662"
-  class="dropdown details-reset details-overlay"
->
-  <summary
-    class="btn btn-octicon m-0 mr-2 p-2"
-    aria-haspopup="true"
-    aria-label="Table of Contents">
-    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-list-unordered">
-    <path fill-rule="evenodd" d="M2 4a1 1 0 100-2 1 1 0 000 2zm3.75-1.5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zM3 8a1 1 0 11-2 0 1 1 0 012 0zm-1 6a1 1 0 100-2 1 1 0 000 2z"></path>
-</svg>
-  </summary>
-
-
-  <details-menu class="SelectMenu" role="menu">
-    <div class="SelectMenu-modal rounded-3 mt-1" style="max-height:340px;">
-
-        <div class="SelectMenu-filter">
-          <input
-            class="SelectMenu-input form-control js-filterable-field"
-            id="toc-filter-field"
-            type="text"
-            autocomplete="off"
-            spellcheck="false"
-            autofocus
-            placeholder="Filter headings"
-            aria-label="Filter headings">
-        </div>
-
-      <div class="SelectMenu-list SelectMenu-list--borderless p-2" style="overscroll-behavior: contain;" data-filterable-for="toc-filter-field" data-filterable-type="substring">
-          <a role="menuitem" class="filter-item SelectMenu-item py-1 text-emphasized" style="padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:90664712,&quot;originating_url&quot;:&quot;https://github.com/udacity/reactnd-project-myreads-starter/blob/master/README.md&quot;,&quot;user_id&quot;:23263393}}" data-hydro-click-hmac="af48f8487729ccbc2f557107000492bb0eeb6627c7793f67dd437616978768f1" href="#myreads-project">MyReads Project</a>
-          <a role="menuitem" class="filter-item SelectMenu-item py-1 " style="padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:90664712,&quot;originating_url&quot;:&quot;https://github.com/udacity/reactnd-project-myreads-starter/blob/master/README.md&quot;,&quot;user_id&quot;:23263393}}" data-hydro-click-hmac="af48f8487729ccbc2f557107000492bb0eeb6627c7793f67dd437616978768f1" href="#tldr">TL;DR</a>
-          <a role="menuitem" class="filter-item SelectMenu-item py-1 " style="padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:90664712,&quot;originating_url&quot;:&quot;https://github.com/udacity/reactnd-project-myreads-starter/blob/master/README.md&quot;,&quot;user_id&quot;:23263393}}" data-hydro-click-hmac="af48f8487729ccbc2f557107000492bb0eeb6627c7793f67dd437616978768f1" href="#what-youre-getting">What You're Getting</a>
-          <a role="menuitem" class="filter-item SelectMenu-item py-1 " style="padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:90664712,&quot;originating_url&quot;:&quot;https://github.com/udacity/reactnd-project-myreads-starter/blob/master/README.md&quot;,&quot;user_id&quot;:23263393}}" data-hydro-click-hmac="af48f8487729ccbc2f557107000492bb0eeb6627c7793f67dd437616978768f1" href="#backend-server">Backend Server</a>
-          <a role="menuitem" class="filter-item SelectMenu-item py-1 " style="padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:90664712,&quot;originating_url&quot;:&quot;https://github.com/udacity/reactnd-project-myreads-starter/blob/master/README.md&quot;,&quot;user_id&quot;:23263393}}" data-hydro-click-hmac="af48f8487729ccbc2f557107000492bb0eeb6627c7793f67dd437616978768f1" href="#getall">getAll</a>
-          <a role="menuitem" class="filter-item SelectMenu-item py-1 " style="padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:90664712,&quot;originating_url&quot;:&quot;https://github.com/udacity/reactnd-project-myreads-starter/blob/master/README.md&quot;,&quot;user_id&quot;:23263393}}" data-hydro-click-hmac="af48f8487729ccbc2f557107000492bb0eeb6627c7793f67dd437616978768f1" href="#update">update</a>
-          <a role="menuitem" class="filter-item SelectMenu-item py-1 " style="padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:90664712,&quot;originating_url&quot;:&quot;https://github.com/udacity/reactnd-project-myreads-starter/blob/master/README.md&quot;,&quot;user_id&quot;:23263393}}" data-hydro-click-hmac="af48f8487729ccbc2f557107000492bb0eeb6627c7793f67dd437616978768f1" href="#search">search</a>
-          <a role="menuitem" class="filter-item SelectMenu-item py-1 " style="padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:90664712,&quot;originating_url&quot;:&quot;https://github.com/udacity/reactnd-project-myreads-starter/blob/master/README.md&quot;,&quot;user_id&quot;:23263393}}" data-hydro-click-hmac="af48f8487729ccbc2f557107000492bb0eeb6627c7793f67dd437616978768f1" href="#important">Important</a>
-          <a role="menuitem" class="filter-item SelectMenu-item py-1 " style="padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:90664712,&quot;originating_url&quot;:&quot;https://github.com/udacity/reactnd-project-myreads-starter/blob/master/README.md&quot;,&quot;user_id&quot;:23263393}}" data-hydro-click-hmac="af48f8487729ccbc2f557107000492bb0eeb6627c7793f67dd437616978768f1" href="#create-react-app">Create React App</a>
-          <a role="menuitem" class="filter-item SelectMenu-item py-1 " style="padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:90664712,&quot;originating_url&quot;:&quot;https://github.com/udacity/reactnd-project-myreads-starter/blob/master/README.md&quot;,&quot;user_id&quot;:23263393}}" data-hydro-click-hmac="af48f8487729ccbc2f557107000492bb0eeb6627c7793f67dd437616978768f1" href="#contributing">Contributing</a>
-      </div>
-    </div>
-  </details-menu>
-</details>
 
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      92 lines (64 sloc)
+      1 lines (1 sloc)
       <span class="file-info-divider"></span>
-    4.18 KB
+    899 Bytes
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
 
     <div class="BtnGroup">
-      <a href="/udacity/reactnd-project-myreads-starter/raw/master/README.md" id="raw-url" role="button" data-view-component="true" class="btn-sm btn BtnGroup-item">
+      <a href="/udacity/reactnd-project-myreads-starter/raw/master/SEARCH_TERMS.md" id="raw-url" role="button" data-view-component="true" class="btn-sm btn BtnGroup-item">
   
   Raw
   
 
 </a>
-        <a href="/udacity/reactnd-project-myreads-starter/blame/master/README.md" data-hotkey="b" role="button" data-view-component="true" class="js-update-url-with-hash btn-sm btn BtnGroup-item">
+        <a href="/udacity/reactnd-project-myreads-starter/blame/master/SEARCH_TERMS.md" data-hotkey="b" role="button" data-view-component="true" class="js-update-url-with-hash btn-sm btn BtnGroup-item">
   
   Blame
   
@@ -1472,7 +1487,7 @@
     <div>
           <a class="btn-octicon tooltipped tooltipped-nw js-remove-unless-platform"
              data-platforms="windows,mac"
-             href="x-github-client://openRepo/https://github.com/udacity/reactnd-project-myreads-starter?branch=master&amp;filepath=README.md"
+             href="x-github-client://openRepo/https://github.com/udacity/reactnd-project-myreads-starter?branch=master&amp;filepath=SEARCH_TERMS.md"
              aria-label="Open this file in GitHub Desktop"
              data-ga-click="Repository, open with desktop">
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-device-desktop">
@@ -1480,7 +1495,7 @@
 </svg>
           </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/udacity/reactnd-project-myreads-starter/edit/master/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="UGML8+RI1v1XLJP0VUlKSraoIhrxhk7kqYDlcxOP8CkxF8ndtcGSmcQfurXY6zJ6hJDeoXHotYHBTa370mC9Ig==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/udacity/reactnd-project-myreads-starter/edit/master/SEARCH_TERMS.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="niqST8vAf6mXSjDx9cevLdbmILWEfNA2JpNesBF0iFrcgofF+oa+JhcKi/MEDLBi5ryJUGWUUtPm5GgcMoH0FA==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
@@ -1488,7 +1503,7 @@
 </svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/udacity/reactnd-project-myreads-starter/delete/master/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="DxWHiEt4SXvIEUcU+iZHW/B60G+U9mBx5+EsXZs4KcxhD+bpo3xYs5xkFjOOpJf1hEl4TYD6J5wfby2AQapYFQ==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/udacity/reactnd-project-myreads-starter/delete/master/SEARCH_TERMS.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="22WlAusJiW4NNEZKLVljSCOMXwo4Lyv+fUTeR3XzwgBQkUJLwwpfHWVsHio2SltlHHutPeoMboClCN2l5YLvLw==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -1500,7 +1515,7 @@
 
     <div class="d-flex hide-lg hide-xl flex-order-2 flex-grow-0">
       <details class="dropdown details-reset details-overlay d-inline-block">
-        <summary class="btn-octicon p-2" aria-haspopup="true" aria-label="possible actions">
+        <summary class="btn-octicon" aria-haspopup="true" aria-label="possible actions">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
     <path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path>
 </svg>
@@ -1510,28 +1525,28 @@
             <li>
                 <a class="dropdown-item tooltipped tooltipped-nw js-remove-unless-platform"
                    data-platforms="windows,mac"
-                   href="x-github-client://openRepo/https://github.com/udacity/reactnd-project-myreads-starter?branch=master&amp;filepath=README.md"
+                   href="x-github-client://openRepo/https://github.com/udacity/reactnd-project-myreads-starter?branch=master&amp;filepath=SEARCH_TERMS.md"
                    data-ga-click="Repository, open with desktop">
                   Open with Desktop
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/udacity/reactnd-project-myreads-starter/raw/master/README.md">
+            <a class="dropdown-item" href="/udacity/reactnd-project-myreads-starter/raw/master/SEARCH_TERMS.md">
               View raw
             </a>
           </li>
             <li>
-              <a class="dropdown-item" href="/udacity/reactnd-project-myreads-starter/blame/master/README.md">
+              <a class="dropdown-item" href="/udacity/reactnd-project-myreads-starter/blame/master/SEARCH_TERMS.md">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/udacity/reactnd-project-myreads-starter/edit/master/README.md">Edit file</a>
+                <a class="dropdown-item" href="/udacity/reactnd-project-myreads-starter/edit/master/SEARCH_TERMS.md">Edit file</a>
               </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/udacity/reactnd-project-myreads-starter/delete/master/README.md">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/udacity/reactnd-project-myreads-starter/delete/master/SEARCH_TERMS.md">Delete file</a>
               </li>
         </ul>
       </details>
@@ -1540,99 +1555,12 @@
 
 
         <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><h1><a id="user-content-myreads-project" class="anchor" aria-hidden="true" href="#myreads-project"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>MyReads Project</h1>
-<p>This is the starter template for the final assessment project for Udacity's React Fundamentals course. The goal of this template is to save you time by providing a static example of the CSS and HTML markup that may be used, but without any of the React code that is needed to complete the project. If you choose to start with this template, your job will be to add interactivity to the app by refactoring the static code in this template.</p>
-<p>Of course, you are free to start this project from scratch if you wish! Just be sure to use <a href="https://github.com/facebookincubator/create-react-app">Create React App</a> to bootstrap the project.</p>
-<h2><a id="user-content-tldr" class="anchor" aria-hidden="true" href="#tldr"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>TL;DR</h2>
-<p>To get started developing right away:</p>
-<ul>
-<li>install all project dependencies with <code>npm install</code></li>
-<li>start the development server with <code>npm start</code></li>
-</ul>
-<h2><a id="user-content-what-youre-getting" class="anchor" aria-hidden="true" href="#what-youre-getting"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>What You're Getting</h2>
-<div class="highlight highlight-source-shell position-relative" data-snippet-clipboard-copy-content="├── CONTRIBUTING.md
-├── README.md - This file.
-├── SEARCH_TERMS.md # The whitelisted short collection of available search terms for you to use with your app.
-├── package.json # npm package manager file. It's unlikely that you'll need to modify this.
-├── public
-│   ├── favicon.ico # React Icon, You may change if you wish.
-│   └── index.html # DO NOT MODIFY
-└── src
-    ├── App.css # Styles for your app. Feel free to customize this as you desire.
-    ├── App.js # This is the root of your app. Contains static HTML right now.
-    ├── App.test.js # Used for testing. Provided with Create React App. Testing is encouraged, but not required.
-    ├── BooksAPI.js # A JavaScript API for the provided Udacity backend. Instructions for the methods are below.
-    ├── icons # Helpful images for your app. Use at your discretion.
-    │   ├── add.svg
-    │   ├── arrow-back.svg
-    │   └── arrow-drop-down.svg
-    ├── index.css # Global styles. You probably won't need to change anything here.
-    └── index.js # You should not need to modify this file. It is used for DOM rendering only.
-"><pre>├── CONTRIBUTING.md
-├── README.md - This file.
-├── SEARCH_TERMS.md <span class="pl-c"><span class="pl-c">#</span> The whitelisted short collection of available search terms for you to use with your app.</span>
-├── package.json <span class="pl-c"><span class="pl-c">#</span> npm package manager file. It's unlikely that you'll need to modify this.</span>
-├── public
-│   ├── favicon.ico <span class="pl-c"><span class="pl-c">#</span> React Icon, You may change if you wish.</span>
-│   └── index.html <span class="pl-c"><span class="pl-c">#</span> DO NOT MODIFY</span>
-└── src
-    ├── App.css <span class="pl-c"><span class="pl-c">#</span> Styles for your app. Feel free to customize this as you desire.</span>
-    ├── App.js <span class="pl-c"><span class="pl-c">#</span> This is the root of your app. Contains static HTML right now.</span>
-    ├── App.test.js <span class="pl-c"><span class="pl-c">#</span> Used for testing. Provided with Create React App. Testing is encouraged, but not required.</span>
-    ├── BooksAPI.js <span class="pl-c"><span class="pl-c">#</span> A JavaScript API for the provided Udacity backend. Instructions for the methods are below.</span>
-    ├── icons <span class="pl-c"><span class="pl-c">#</span> Helpful images for your app. Use at your discretion.</span>
-    │   ├── add.svg
-    │   ├── arrow-back.svg
-    │   └── arrow-drop-down.svg
-    ├── index.css <span class="pl-c"><span class="pl-c">#</span> Global styles. You probably won't need to change anything here.</span>
-    └── index.js <span class="pl-c"><span class="pl-c">#</span> You should not need to modify this file. It is used for DOM rendering only.</span></pre></div>
-<p>Remember that good React design practice is to create new JS files for each component and use import/require statements to include them where they are needed.</p>
-<h2><a id="user-content-backend-server" class="anchor" aria-hidden="true" href="#backend-server"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Backend Server</h2>
-<p>To simplify your development process, we've provided a backend server for you to develop against. The provided file <a href="/udacity/reactnd-project-myreads-starter/blob/master/src/BooksAPI.js"><code>BooksAPI.js</code></a> contains the methods you will need to perform necessary operations on the backend:</p>
-<ul>
-<li><a href="#getall"><code>getAll</code></a></li>
-<li><a href="#update"><code>update</code></a></li>
-<li><a href="#search"><code>search</code></a></li>
-</ul>
-<h3><a id="user-content-getall" class="anchor" aria-hidden="true" href="#getall"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><code>getAll</code></h3>
-<p>Method Signature:</p>
-<div class="highlight highlight-source-js position-relative" data-snippet-clipboard-copy-content="getAll()
-"><pre><span class="pl-en">getAll</span><span class="pl-kos">(</span><span class="pl-kos">)</span></pre></div>
-<ul>
-<li>Returns a Promise which resolves to a JSON object containing a collection of book objects.</li>
-<li>This collection represents the books currently in the bookshelves in your app.</li>
-</ul>
-<h3><a id="user-content-update" class="anchor" aria-hidden="true" href="#update"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><code>update</code></h3>
-<p>Method Signature:</p>
-<div class="highlight highlight-source-js position-relative" data-snippet-clipboard-copy-content="update(book, shelf)
-"><pre><span class="pl-en">update</span><span class="pl-kos">(</span><span class="pl-s1">book</span><span class="pl-kos">,</span> <span class="pl-s1">shelf</span><span class="pl-kos">)</span></pre></div>
-<ul>
-<li>book: <code>&lt;Object&gt;</code> containing at minimum an <code>id</code> attribute</li>
-<li>shelf: <code>&lt;String&gt;</code> contains one of ["wantToRead", "currentlyReading", "read"]</li>
-<li>Returns a Promise which resolves to a JSON object containing the response data of the POST request</li>
-</ul>
-<h3><a id="user-content-search" class="anchor" aria-hidden="true" href="#search"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><code>search</code></h3>
-<p>Method Signature:</p>
-<div class="highlight highlight-source-js position-relative" data-snippet-clipboard-copy-content="search(query)
-"><pre><span class="pl-en">search</span><span class="pl-kos">(</span><span class="pl-s1">query</span><span class="pl-kos">)</span></pre></div>
-<ul>
-<li>query: <code>&lt;String&gt;</code></li>
-<li>Returns a Promise which resolves to a JSON object containing a collection of a maximum of 20 book objects.</li>
-<li>These books do not know which shelf they are on. They are raw results only. You'll need to make sure that books have the correct state while on the search page.</li>
-</ul>
-<h2><a id="user-content-important" class="anchor" aria-hidden="true" href="#important"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Important</h2>
-<p>The backend API uses a fixed set of cached search results and is limited to a particular set of search terms, which can be found in <a href="/udacity/reactnd-project-myreads-starter/blob/master/SEARCH_TERMS.md">SEARCH_TERMS.md</a>. That list of terms are the <em>only</em> terms that will work with the backend, so don't be surprised if your searches for Basket Weaving or Bubble Wrap don't come back with any results.</p>
-<h2><a id="user-content-create-react-app" class="anchor" aria-hidden="true" href="#create-react-app"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Create React App</h2>
-<p>This project was bootstrapped with <a href="https://github.com/facebookincubator/create-react-app">Create React App</a>. You can find more information on how to perform common tasks <a href="https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md">here</a>.</p>
-<h2><a id="user-content-contributing" class="anchor" aria-hidden="true" href="#contributing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Contributing</h2>
-<p>This repository is the starter code for <em>all</em> Udacity students. Therefore, we most likely will not accept pull requests.</p>
-<p>For details, check out <a href="/udacity/reactnd-project-myreads-starter/blob/master/CONTRIBUTING.md">CONTRIBUTING.md</a>.</p>
+    <article class="markdown-body entry-content container-lg" itemprop="text"><p>'Android', 'Art', 'Artificial Intelligence', 'Astronomy', 'Austen', 'Baseball', 'Basketball', 'Bhagat', 'Biography', 'Brief', 'Business', 'Camus', 'Cervantes', 'Christie', 'Classics', 'Comics', 'Cook', 'Cricket', 'Cycling', 'Desai', 'Design', 'Development', 'Digital Marketing', 'Drama', 'Drawing', 'Dumas', 'Education', 'Everything', 'Fantasy', 'Film', 'Finance', 'First', 'Fitness', 'Football', 'Future', 'Games', 'Gandhi', 'Homer', 'Horror', 'Hugo', 'Ibsen', 'Journey', 'Kafka', 'King', 'Lahiri', 'Larsson', 'Learn', 'Literary Fiction', 'Make', 'Manage', 'Marquez', 'Money', 'Mystery', 'Negotiate', 'Painting', 'Philosophy', 'Photography', 'Poetry', 'Production', 'Programming', 'React', 'Redux', 'River', 'Robotics', 'Rowling', 'Satire', 'Science Fiction', 'Shakespeare', 'Singh', 'Swimming', 'Tale', 'Thrun', 'Time', 'Tolstoy', 'Travel', 'Ultimate', 'Virtual Reality', 'Web Development', 'iOS'</p>
 </article>
   </div>
 
     </div>
 
-  </readme-toc>
 
   
 
@@ -1654,10 +1582,10 @@
      hidden
      data-tagsearch-url="/udacity/reactnd-project-myreads-starter/find-definition"
      data-tagsearch-ref="master"
-     data-tagsearch-path="README.md"
+     data-tagsearch-path="SEARCH_TERMS.md"
      data-tagsearch-lang="Markdown"
-     data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_symbol&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_symbol&quot;,&quot;repository_id&quot;:90664712,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;Markdown&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/reactnd-project-myreads-starter/blob/master/README.md&quot;,&quot;user_id&quot;:23263393}}"
-     data-hydro-click-hmac="df39722359b970af154562379cb35e1a15bbecbc23e576603d218763af29242e">
+     data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_symbol&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_symbol&quot;,&quot;repository_id&quot;:90664712,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;Markdown&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/reactnd-project-myreads-starter/blob/master/SEARCH_TERMS.md&quot;,&quot;user_id&quot;:23263393}}"
+     data-hydro-click-hmac="108060a31f2975407f1ffd7c639f7b763047c31ca4a53d94d463fdccb8690929">
   <div class="Popover-message Popover-message--large Popover-message--top-left TagsearchPopover mt-1 mb-4 mx-auto Box color-shadow-large">
     <div class="TagsearchPopover-content js-tagsearch-popover-content overflow-auto" style="will-change:transform;">
     </div>
@@ -1682,10 +1610,10 @@
   <div class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between pt-6 pb-2 mt-6 f6 color-text-secondary border-top color-border-secondary ">
     <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
       <li class="mr-3 mr-lg-0">&copy; 2021 GitHub, Inc.</li>
-        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-terms-of-service" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/reactnd-project-myreads-starter/blob/master/README.md&quot;,&quot;user_id&quot;:23263393}}" data-hydro-click-hmac="37c966d3e741de5ec904cbe63ba601582a694c5d30a381c7f4be959b758601bb">Terms</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/reactnd-project-myreads-starter/blob/master/README.md&quot;,&quot;user_id&quot;:23263393}}" data-hydro-click-hmac="f7ea3f7a3b8c5574cc8a06b905fae872ae3ce850a956fde0a29cadfd45ac0734">Privacy</a></li>
-        <li class="mr-3 mr-lg-0"><a data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/reactnd-project-myreads-starter/blob/master/README.md&quot;,&quot;user_id&quot;:23263393}}" data-hydro-click-hmac="f3fc855334226430724acc978aae6d02bdba425b10ba08f34252016377b479ea" href="https://github.com/security">Security</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://www.githubstatus.com/" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/reactnd-project-myreads-starter/blob/master/README.md&quot;,&quot;user_id&quot;:23263393}}" data-hydro-click-hmac="707d1d85d85b39ca1008edf6caf7d41d1bd04d6bd3013d84da64f3a01eadeaff">Status</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-terms-of-service" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/reactnd-project-myreads-starter/blob/master/SEARCH_TERMS.md&quot;,&quot;user_id&quot;:23263393}}" data-hydro-click-hmac="7db006de3825e5cb5c3c4b33b125953f8d47c46cc03544dc924739c6a645db8b">Terms</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/reactnd-project-myreads-starter/blob/master/SEARCH_TERMS.md&quot;,&quot;user_id&quot;:23263393}}" data-hydro-click-hmac="197e1d81c3b68569b4f7f79ef6b0a1f32b053208846ef0a80ea4de1037cc8ef0">Privacy</a></li>
+        <li class="mr-3 mr-lg-0"><a data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/reactnd-project-myreads-starter/blob/master/SEARCH_TERMS.md&quot;,&quot;user_id&quot;:23263393}}" data-hydro-click-hmac="b6228ce22d636e84b636ea87375d975ffe8ec32b4d5556db0b92fc38695f5454" href="https://github.com/security">Security</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://www.githubstatus.com/" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/reactnd-project-myreads-starter/blob/master/SEARCH_TERMS.md&quot;,&quot;user_id&quot;:23263393}}" data-hydro-click-hmac="ff377a23dd0da375736bcf65b8cc8499a2dd0e60aadc89b4886752d59b9d0522">Status</a></li>
         <li><a data-ga-click="Footer, go to help, text:Docs" href="https://docs.github.com">Docs</a></li>
     </ul>
 
@@ -1695,11 +1623,11 @@
 </svg>
 </a>
     <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
-        <li class="mr-3 mr-lg-0"><a href="https://support.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/reactnd-project-myreads-starter/blob/master/README.md&quot;,&quot;user_id&quot;:23263393}}" data-hydro-click-hmac="7d51836be65bb5f92ca395c433ed5955e24d0f32287fdec7a6b3a4ad5b1c4a49">Contact GitHub</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/reactnd-project-myreads-starter/blob/master/README.md&quot;,&quot;user_id&quot;:23263393}}" data-hydro-click-hmac="69a340ddf2ca33a8923be2787cb18b33eba9cc705985024eb8a1b04eac311992">Pricing</a></li>
-      <li class="mr-3 mr-lg-0"><a href="https://docs.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/reactnd-project-myreads-starter/blob/master/README.md&quot;,&quot;user_id&quot;:23263393}}" data-hydro-click-hmac="4b6f72645ee0265e3be2565a69f0c063ebb8ec40533e8059f7142c55a828217a">API</a></li>
-      <li class="mr-3 mr-lg-0"><a href="https://services.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/reactnd-project-myreads-starter/blob/master/README.md&quot;,&quot;user_id&quot;:23263393}}" data-hydro-click-hmac="cbbdcc724f6c9162ac9ff67dd789736e488c43f9f922a23f188ebf104fb4c182">Training</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/reactnd-project-myreads-starter/blob/master/README.md&quot;,&quot;user_id&quot;:23263393}}" data-hydro-click-hmac="b358d47edbacbef69f929151716c1bd1cc57aa5e05d2aa86a676d901919e9cd2">Blog</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://support.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/reactnd-project-myreads-starter/blob/master/SEARCH_TERMS.md&quot;,&quot;user_id&quot;:23263393}}" data-hydro-click-hmac="3faaff821a52d775e6a64feaa9b69c927965ef7c13b64f296a778a12cfbf9e76">Contact GitHub</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/reactnd-project-myreads-starter/blob/master/SEARCH_TERMS.md&quot;,&quot;user_id&quot;:23263393}}" data-hydro-click-hmac="2aa6f93a5e1e0fa373e3e70bf9d45e5e9e3c7844f1af36879e3e297e922f6e56">Pricing</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://docs.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/reactnd-project-myreads-starter/blob/master/SEARCH_TERMS.md&quot;,&quot;user_id&quot;:23263393}}" data-hydro-click-hmac="5b83fdc9673228e157748f2335b3cf484db1ad329e014e23b727507d082823fb">API</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://services.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/reactnd-project-myreads-starter/blob/master/SEARCH_TERMS.md&quot;,&quot;user_id&quot;:23263393}}" data-hydro-click-hmac="365ff354e2f0afe3cd821e8b1390d65e03cc54697b522e50958db8060a79d341">Training</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/reactnd-project-myreads-starter/blob/master/SEARCH_TERMS.md&quot;,&quot;user_id&quot;:23263393}}" data-hydro-click-hmac="9e6f845beb782968abff60c2759219754eba7f4c50c53c2e9f2b4e80a17ec6d3">Blog</a></li>
         <li><a data-ga-click="Footer, go to about, text:about" href="https://github.com/about">About</a></li>
     </ul>
   </div>
