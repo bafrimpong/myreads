@@ -1,39 +1,48 @@
-# MyReads Project
+# MyReads
 
-This is the starter template for the final assessment project for Udacity's React Fundamentals course. The goal of this template is to save you time by providing a static example of the CSS and HTML markup that may be used, but without any of the React code that is needed to complete the project. If you choose to start with this template, your job will be to add interactivity to the app by refactoring the static code in this template.
+This is a project to showcase how states are handled in React coupled with how forms and inputs are handled through the concepts of controlled components.
 
-Of course, you are free to start this project from scratch if you wish! Just be sure to use [Create React App](https://github.com/facebookincubator/create-react-app) to bootstrap the project.
+## Essence of the App:
 
-## TL;DR
+The App is a 1 project out of 3 in a path I am following at Udacity title React Nanodegree. It is intended to showcase how a whole App can be broken into components for reuseable and to adhere to DRY (Don't Repeat Yourself) and other principles.
 
-To get started developing right away:
+## Loading the App
 
-* install all project dependencies with `npm install`
-* start the development server with `npm start`
+The project uses the Create-React-App in creating the starter template. 
+The `create-react-app` command can be issued at your favourite command line tool only when Node is installed or you can use npm.
 
-## What You're Getting
-```bash
-├── CONTRIBUTING.md
-├── README.md - This file.
-├── SEARCH_TERMS.md # The whitelisted short collection of available search terms for you to use with your app.
-├── package.json # npm package manager file. It's unlikely that you'll need to modify this.
-├── public
-│   ├── favicon.ico # React Icon, You may change if you wish.
-│   └── index.html # DO NOT MODIFY
-└── src
-    ├── App.css # Styles for your app. Feel free to customize this as you desire.
-    ├── App.js # This is the root of your app. Contains static HTML right now.
-    ├── App.test.js # Used for testing. Provided with Create React App. Testing is encouraged, but not required.
-    ├── BooksAPI.js # A JavaScript API for the provided Udacity backend. Instructions for the methods are below.
-    ├── icons # Helpful images for your app. Use at your discretion.
-    │   ├── add.svg
-    │   ├── arrow-back.svg
-    │   └── arrow-drop-down.svg
-    ├── index.css # Global styles. You probably won't need to change anything here.
-    └── index.js # You should not need to modify this file. It is used for DOM rendering only.
+Clone the app from my GitHub repo using the command 
+```git clone https://github.com/bafrimpong/myreads.git && npm install```
+
+When all the dependencies are installed, launch the app with
+
+```
+npm start
+```
+OR
+```
+yarn start
 ```
 
-Remember that good React design practice is to create new JS files for each component and use import/require statements to include them where they are needed.
+Your default browser window will open showing the app contents. If it doesn't, just enter [http://localhost:3000/](http://localhost:3000/) in your browser to launch it.![Address bar](src/utils/localhost.png)
+
+## How to Use the App
+
+- When the App starts by entering the addres ![Address bar](src/utils/localhost.png), some default books are displayed on the main page with the books divided into one of the categories as `Currently Reading`, `Want to Read` and `Read`.
+  ![Main page](src/utils/main-page-shelf.png 'Main page with list of books')
+
+- The Books are segregated into 3 categories: Currently Reading aka `currentlyReading`, Want to Read aka `wantToRead` and Read aka `read`
+
+- To move a book from a category (list) to another, click on the green button on the book cover
+  ![Change menu](src/utils/book_shelf_movement.png "change")
+
+- To search for and add a new book, click on the green + button ![Add button](src/utils/search.png) at the bottom-right corner of the page.
+
+- Enter an author's name or book title. 
+  ![Search input](src/utils/search_input.png "Search box")
+
+- Up to atleast 20 books will be returned.
+![Search results](src/utils/search_results.png "Search results")
 
 ## Backend Server
 
@@ -74,19 +83,32 @@ Method Signature:
 search(query)
 ```
 
-* query: `<String>`
+* searchWord: `<String>`
 * Returns a Promise which resolves to a JSON object containing a collection of a maximum of 20 book objects.
 * These books do not know which shelf they are on. They are raw results only. You'll need to make sure that books have the correct state while on the search page.
 
-## Important
-The backend API uses a fixed set of cached search results and is limited to a particular set of search terms, which can be found in [SEARCH_TERMS.md](SEARCH_TERMS.md). That list of terms are the _only_ terms that will work with the backend, so don't be surprised if your searches for Basket Weaving or Bubble Wrap don't come back with any results.
+### React Learning and Documentation:
 
-## Create React App
+React which is a product from Facebook has a great documentation repository where you can learn more about it just as I am doing. Have a great learning journey by visting any of the links below!
 
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app). You can find more information on how to perform common tasks [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
+- [Create-react-app Documentation](https://github.com/facebookincubator/create-react-app)
+- [React Router Documentation](http://knowbody.github.io/react-router-docs/)
+- [React Training/React Router](https://reacttraining.com/react-router/web/api/BrowserRouter)
+- [React API](https://facebook.github.io/react/docs/react-api.html)
 
-## Contributing
+### Helpful Project Resources:
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+If you are struggling to understanding some concepts and principles used in the App, please visit the links below to learn more.
 
-For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
+- [Project starter template](https://github.com/udacity/reactnd-project-myreads-starter)
+- [Project Rubric](https://review.udacity.com/#!/rubrics/918/view)
+- [Udacity CSS Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/css.html)
+- [Udacity HTML Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/index.html)
+- [Udacity JavaScript Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
+
+#### Search Terms
+
+The App is restricted to some search terms and so if for any reason, it's not all words or book titles entered into the textbox will return a good results. Below are the defined words which the search will return from the API endpoint in the App
+
+More details can be found [here](SEARCH_TERMS.md);
+

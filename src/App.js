@@ -56,13 +56,11 @@ class App extends Component {
   }
 
   render() {
-      
     return (
       <div className="app">
         <Route path='/search' render={() => (
           <SearchBooks 
             moveBookToShelf={this.moveBookToShelf}
-            renderList='search'
             books={this.state.books}
           />
         )}
@@ -77,7 +75,6 @@ class App extends Component {
                 <ListOfBooks 
                   books={this.state.books} 
                   moveBookToShelf={this.moveBookToShelf}
-                  renderList={'main'}
                 />
               </div>
             </div>

@@ -1,6 +1,11 @@
 import React from 'react';
-
+import PropTypes from 'prop-types';
 class ShelfOptions extends React.Component {
+    static propTypes = {
+        book: PropTypes.object.isRequired,
+        books: PropTypes.array.isRequired,
+        moveBookToShelf: PropTypes.func.isRequired
+    };
 
     // Holds the value to either of the shelf categories [currentlyReading, wantToRead, read]
     shelfCategory = 'none';
@@ -22,7 +27,7 @@ class ShelfOptions extends React.Component {
      */
     getShelfCategory = () => {
         for (const book of this.props.books) {
-            if(book.id === this.props.book.id){
+            if (book.id === this.props.book.id) {
                 this.shelfCategory = book.shelf
             }
         }
