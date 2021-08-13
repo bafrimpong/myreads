@@ -1,7 +1,12 @@
 import React from 'react';
 import ShelfOptions from './ShelfOptions';
-
+import PropTypes from 'prop-types';
 class BookFilter extends React.Component {
+    static propTypes = {
+        book: PropTypes.object.isRequired,
+        books: PropTypes.array.isRequired,
+        moveBookToShelf: PropTypes.func.isRequired
+    };
 
     render() {
         return (
@@ -14,7 +19,7 @@ class BookFilter extends React.Component {
                                 book={this.props.book}
                                 books={this.props.books}
                                 moveBookToShelf={this.props.moveBookToShelf}
-                                renderList={this.props.renderList} />
+                            />
                         </div>
                     </div>
                     <div className="book-title">{this.props.book.title ? this.props.book.title : 'No Title'}</div>

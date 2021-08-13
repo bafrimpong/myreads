@@ -1,12 +1,11 @@
 import React from 'react';
 import BookGrid from './BookGrid';
+import PropTypes from 'prop-types';
 
 const ListOfBooks = (props) => {
 
     const shelfCategory = ['currentlyReading', 'wantToRead', 'read'];
     const shelfTitle = ['Currently Reading', 'Want to Read', ' Read'];
-
-    // let groupedBooks = null;
 
     return (
         <div className="list-books-content">
@@ -22,7 +21,7 @@ const ListOfBooks = (props) => {
                                 <BookGrid
                                     books={groupedBooks}
                                     moveBookToShelf={props.moveBookToShelf}
-                                    renderList='main' />
+                                />
                             </div>
                         </div>)
                 })
@@ -30,5 +29,10 @@ const ListOfBooks = (props) => {
         </div>
     )
 }
+
+ListOfBooks.propTypes = {
+    books: PropTypes.array.isRequired,
+    moveBookToShelf: PropTypes.func.isRequired
+};
 
 export default ListOfBooks;
